@@ -1,4 +1,4 @@
-# Hi, I'm Donghwan (동환) 👋
+#  Donghwan (동환)
 
 **Web Developer · Frontend · 생활 속 불편을 서비스로 만드는 개발자**
 
